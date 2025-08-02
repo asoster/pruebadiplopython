@@ -7,4 +7,4 @@ def calcular_edad(fecha):
 
 
 def preguntar_nombre():
-    return input("Ingrese su nombre: ")
+    return input("Ingrese su nombres: ")
